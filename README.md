@@ -11,5 +11,5 @@ roughgo.exe b DWJAA0zoAgyMDNgAI5parKqYsJuIaRYTLmsQABAAAP__    --> will resume th
 ## Dependencies
 Locra using the chrome dev toolkit behind the scenes. This will require having chrome installed and granting the appropriate permissions during runtime.
 
-## There is no website? not way to play against each other? 
-Yeap. This is a pure visual represntation of a go board. You can share this over a video chat and play the game as you would in person. The baduk library includes features such as taking pieces, scoring, encoding, and the SVG rendering. Roughgo was meant as a way to turn that library into a working game with minimal effort.
+## There is no website? no way to play against each other? 
+Yeap. This is a pure visual represntation of a go board. You can share this over a video chat and play the game as you would in person. The baduk library includes features such as taking pieces, scoring, encoding, and the SVG rendering. RoughGo was meant as a way to turn that library into a working game with minimal effort.
